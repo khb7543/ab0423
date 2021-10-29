@@ -77,12 +77,14 @@ https://www.w3schools.com/html/html_attributes.asp
 >   - 이미지, 비디오, 오디오
 
 ### HTML Heading
+
 https://www.w3schools.com/html/html_headings.asp
 
 - h : (h)eading : 제목 표시 태그
 - h1 ~ h6 : h1 - 가장 큰 제목
 
 ### HTML Paragraph
+
 https://www.w3schools.com/html/html_paragraphs.asp
 
 - p : (p)aragraph - 단락 표시 태그
@@ -91,6 +93,7 @@ https://www.w3schools.com/html/html_paragraphs.asp
 - hr : (H)orozontal (R)ule - 수평선 / 빈 요소(Empty Element)
 
 ### HTML link
+
 https://www.w3schools.com/html/html_links.asp
 
 - 다른 페이지로 연결
@@ -104,6 +107,7 @@ target="_blank" : 새 창(탭) 열기
 ```
 
 ### HTML list
+
 https://www.w3schools.com/html/html_lists.asp
 
 - 순서없는 목록 : ul - (U)nordered (L)ist
